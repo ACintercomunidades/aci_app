@@ -1,4 +1,4 @@
-# Welcome to Assetto Corsa Intercomunidade web app Project 
+# Welcome to Assetto Corsa Intercomunidades web app Project 
 This is a W.I.P app.
 
 ## App Stack
