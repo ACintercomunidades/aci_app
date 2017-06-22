@@ -10,9 +10,9 @@ This is a W.I.P app.
    - Node
    - Express
    - Mongo
-    API:
+    - API:
       - graphQL
-    Testing:
+    - Testing:
       - Jess, TBA?
   
    
