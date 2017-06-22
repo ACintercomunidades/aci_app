@@ -12,8 +12,8 @@ This is a W.I.P app.
    - Mongo
     API:
       - graphQL
-  Testing:
-   - Jess, TBA?
+    Testing:
+      - Jess, TBA?
   
    
 Assetto Corsa Intercomunidades - Web App
